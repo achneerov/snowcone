@@ -1,2 +1,2 @@
-exports.Queue = require('./lib/queue');
-exports.readLines = require('./lib/read-lines');
+export { default as Queue } from './lib/queue.js';
+export { default as readLines } from './lib/read-lines.js';
