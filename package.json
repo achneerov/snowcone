@@ -2,8 +2,13 @@
   "name": "snowcone",
   "version": "0.2.0",
   "description": "Simple JavaScript utilities.",
+  "license": "MIT",
   "type": "module",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib/"
+  ],
   "engines": {
     "node": ">=20"
   }
