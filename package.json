@@ -1,7 +1,7 @@
 {
   "name": "jexa",
   "version": "0.1.0",
-  "description": "A simple queue and line-by-line file reader for Node.js.",
+  "description": "Simple JavaScript utilities.",
   "main": "index.js",
   "engines": {
     "node": ">=20"
