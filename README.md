@@ -1,1 +1,3 @@
+# Snowcone
+
 Simple JavaScript utilities.
